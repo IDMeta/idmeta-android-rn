@@ -132,11 +132,11 @@
         {
           "name": "file_picker_profile-1.0-javadoc.jar",
           "url": "file_picker_profile-1.0-javadoc.jar",
-          "size": 289098,
-          "sha512": "b32cc45f4becea2bb7ac9d10013f4e4e7f4a959e8c572f63c66d092a882975489089d4955ee90d7cc1af338ad83a0c5e957e46a822b0a52622906de1ff78c287",
-          "sha256": "dbf44cc47e1eceeab9ef5a173bb91b6afd6024f510b14c8d7c74041df79ad57a",
-          "sha1": "910f6a75581c0dd4a687d5144e41298a3c26bfdd",
-          "md5": "c11845d7d17ae9eeef920fcce814b679"
+          "size": 290097,
+          "sha512": "ddd19ee8e0b9144c9219c758e164dbdf68920e2e96a52a337d543638757f4b3aee2ed184a9f0abe1cc1498965664c729d78ff8fe41811f2c3778a924e02f86f1",
+          "sha256": "4e3607b58741efc9409355db441bc17e0574edb01c4536325b9d564089346f2e",
+          "sha1": "cb22588f719c44f061a54c7ed06144500eb02055",
+          "md5": "d39db28fccbb8bbbccb2d7ee68c8cb39"
         }
       ]
     }

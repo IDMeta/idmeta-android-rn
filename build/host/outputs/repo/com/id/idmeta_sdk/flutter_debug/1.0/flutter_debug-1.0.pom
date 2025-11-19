@@ -61,6 +61,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.pichillilorenzo.flutter_inappwebview_android</groupId>
+      <artifactId>flutter_inappwebview_android_debug</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>io.flutter.plugins.flutter_plugin_android_lifecycle</groupId>
       <artifactId>flutter_plugin_android_lifecycle_debug</artifactId>
       <version>1.0</version>

@@ -30,7 +30,7 @@ public class IdmetaAndroidRnModule extends ReactContextBaseJavaModule {
             UiThreadUtil.runOnUiThread(new Runnable() {
                 @Override
                 public void run() {
-                    Intent intent = new Intent(currentActivity, FlutterStarterActivity.class);
+                    Intent intent = new Intent(currentActivity, IdmetaStarterActivity.class);
                     intent.putExtra("flowId", flowId);
                     intent.putExtra("userToken", userToken);
                     currentActivity.startActivity(intent);

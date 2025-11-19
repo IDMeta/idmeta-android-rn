@@ -146,11 +146,11 @@
         {
           "name": "mobile_scanner_profile-1.0-javadoc.jar",
           "url": "mobile_scanner_profile-1.0-javadoc.jar",
-          "size": 378185,
-          "sha512": "391394b56a056601088e73f0dfd375774f232fdff2d0c001352b4ed6e865375c61e103bb666527124db1ceb8db1049f5aa6a52ddb7d7fcb1a1fffe37f4960b7d",
-          "sha256": "c085fef4a262445f820ab3c59ce36817cb673e7e859661ae841af0161caccc61",
-          "sha1": "b562609fda353c9921aee7bcdab938862caab641",
-          "md5": "c5399e1c4cd4d8393e775902eb0b5c39"
+          "size": 380757,
+          "sha512": "08c49d750dcb560fd78d0a3df942b0092f22335c7103146349494c7e58223ae9f945a0a896584cf1f9e7f299c1faa34f835094c4af1b2825743e70fc882631c6",
+          "sha256": "3ea3e64485e5c1ae5f1e3335c9c6f25eb115051c4994647888d5e9abe0fff29a",
+          "sha1": "56470b38cd92fe431a80e757e34f8ce9bf55438c",
+          "md5": "9aa07c3318c7347162ffc13aed224551"
         }
       ]
     }

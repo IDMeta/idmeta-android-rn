@@ -118,11 +118,11 @@
         {
           "name": "blinkid_flutter_profile-1.0-javadoc.jar",
           "url": "blinkid_flutter_profile-1.0-javadoc.jar",
-          "size": 358784,
-          "sha512": "ee87d246431911b72d5c4fea32db4059dad88391594517c8119fafc9f002e4c06708f0253804dcbcd1ca40fe8c2b066280664b334d6b8bc76c7d768766a18428",
-          "sha256": "2738e7241a82509653a9d0d353765c20408394add284012f7f10dbd898fbeeba",
-          "sha1": "f0167aa3f3089d574c78a20bd68a58d519cbaba3",
-          "md5": "8e1f58395137e98cef3a90ad458e0a97"
+          "size": 360800,
+          "sha512": "49d6704b022254325954643c92cb82349b002129174a69a5f80df03fbdaf3300e30b6f483442c99cb73565b5628989ffffd44e36db584c1166c4559286bc87d4",
+          "sha256": "d9e713e463d2c55351d003f8bb7a122344398440cf3680a72e36b88b19ed6415",
+          "sha1": "2cdddbf9311d78c8ff52de43d734e26fef829c1d",
+          "md5": "3994a67cc3ba7743eeea3f020baa7905"
         }
       ]
     }

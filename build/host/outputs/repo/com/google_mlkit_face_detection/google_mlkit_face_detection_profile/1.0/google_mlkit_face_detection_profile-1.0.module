@@ -118,11 +118,11 @@
         {
           "name": "google_mlkit_face_detection_profile-1.0-javadoc.jar",
           "url": "google_mlkit_face_detection_profile-1.0-javadoc.jar",
-          "size": 261979,
-          "sha512": "3ca2a3de98372a3b84eb0217b05d85812e06db3e75c74e6a4c2283b73067591c163a6340b9630110465324c5e103c604c2c0844e87c86911be852e86bea6b75f",
-          "sha256": "0570c4251f7508048f07a9f31e5c2a48dacb96d0ab899d863dbc7618c20c7c0d",
-          "sha1": "59861d78dc557b91dacf237e791c314a371fbc72",
-          "md5": "08c3bad63e97fb59be6cad3e6b78df59"
+          "size": 262027,
+          "sha512": "45fae53fd67909178de407f73bb92402ac02fe483890cf598b2de281cfc7d42e20e9d625fe6fb83ba29a9f3675db511c40dcae010bb3b79498e411d4dc113ac9",
+          "sha256": "456e62c8ed518fffa28f4d8cc3149cb77d27efd668c48f04c98c3a4ff302c4ab",
+          "sha1": "92b319e3672875f5f98e636ad2dc2a0040d03c2a",
+          "md5": "bbcdb99b2bbcdd9c2b93cb3df2f51f3d"
         }
       ]
     }

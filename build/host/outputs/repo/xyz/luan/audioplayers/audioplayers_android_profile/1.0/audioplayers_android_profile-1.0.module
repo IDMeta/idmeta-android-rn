@@ -132,11 +132,11 @@
         {
           "name": "audioplayers_android_profile-1.0-javadoc.jar",
           "url": "audioplayers_android_profile-1.0-javadoc.jar",
-          "size": 355973,
-          "sha512": "45da5eb99d18d2d9051c17b544535f49920c55b1619367898976a38b2e9eaff1228f99d085b48f6bb5a48628a6bb36cfd79f74311fb5df74135d44bd83ba27a6",
-          "sha256": "54614d3162a0860d00de1c54343f7da3f53338fe96abfe869f175ed855a1fb23",
-          "sha1": "791ae3f5a59416c4343b2b9cb2c54f04721ac47f",
-          "md5": "6f46404dc8404d65f4c4e8a9b9d031db"
+          "size": 358897,
+          "sha512": "17d3c91ec7040a7418487848e11e7243261edf8f94c6a1ef6330bffd811481d92ff186c0bcb35870ee1ee1ecccfd0ff6ee4b26b92da7ddb0cc7d0c72159464a4",
+          "sha256": "0a24ebf8f37dc2ed6723c109ca4f34f3cc025a91aea767ff9b113a0c5c80414e",
+          "sha1": "2362a29004e696be5afc680f84f835b2083acd7c",
+          "md5": "529c696f117118169037d29ab92e26ba"
         }
       ]
     }

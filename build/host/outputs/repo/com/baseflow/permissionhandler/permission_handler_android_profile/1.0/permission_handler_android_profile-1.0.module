@@ -104,11 +104,11 @@
         {
           "name": "permission_handler_android_profile-1.0-javadoc.jar",
           "url": "permission_handler_android_profile-1.0-javadoc.jar",
-          "size": 264594,
-          "sha512": "d4617f4abf86793317491850f973ae9ec08e7a04aecd16cbaa00bf049d9c5c4ec707808754c789e2dc474271f12a86b908706f94ac17192cdf839eba35fee769",
-          "sha256": "c46065278d6ba64c2255a6602b09c284dde58f413889ed0d78af05f5407a1e3b",
-          "sha1": "2a31a95fc31431987a6ca595cbe3ea9dece4ec62",
-          "md5": "cd5878a8bc9720d11d15c50526f3c769"
+          "size": 264645,
+          "sha512": "bd4f773073057a708dd34a0149cce6864babf5e15450ae95e480659b1fb94e69e2c92fe9b93bc92f265f6d5398a4cf418672f61a8201e9c4315a17a7fb9c2b92",
+          "sha256": "1924da3d3d931eb41db835039112b2d39ad864a03db731e5c8dda702cf8ced2d",
+          "sha1": "65c6bbad880dc56da500b1f784d23dbc1b1c588f",
+          "md5": "9ac43ee39be7696f80559fd5c902eab1"
         }
       ]
     }

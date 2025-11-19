@@ -111,11 +111,11 @@
         {
           "name": "flutter_plugin_android_lifecycle_profile-1.0-javadoc.jar",
           "url": "flutter_plugin_android_lifecycle_profile-1.0-javadoc.jar",
-          "size": 269829,
-          "sha512": "fb1d73e2d36f68cf683c26de7527f02c618f1102c4f172c84b691753777306e05e79eba56b6a6fbf58e2a5fe4fa724091d5e8af142621b333c1e1541396723de",
-          "sha256": "3ee3eaa5ae72e8a2ac43b8b1c636bd06a3cd8eab51647d681428ac4c50b17383",
-          "sha1": "78cf1e9a85777c2da44c1e1c4a83a06bb3fba394",
-          "md5": "637414e7c3a925dac2124afe2ba87540"
+          "size": 269936,
+          "sha512": "8e090ed573a2d0bb955b556e2a48535c6d93fd040ea11eadce4669169086091e6e6519720e49ae55357d6b99e4e2a74553d1ee05012e1e7ea3044e9e0f3614d0",
+          "sha256": "c1cb2f8e94b039a101c6b6235a7432bcc33a521defa54fb9dc42f6fc21022348",
+          "sha1": "868c7cff19aa6f593a8d1f7e4ffac63d81c512de",
+          "md5": "76df1e951cac4ac70868150a3f88ae0c"
         }
       ]
     }

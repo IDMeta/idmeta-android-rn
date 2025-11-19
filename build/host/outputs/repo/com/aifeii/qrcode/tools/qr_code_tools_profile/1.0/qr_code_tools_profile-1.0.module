@@ -132,11 +132,11 @@
         {
           "name": "qr_code_tools_profile-1.0-javadoc.jar",
           "url": "qr_code_tools_profile-1.0-javadoc.jar",
-          "size": 262349,
-          "sha512": "69b68a33af873d30e4ed2758b03a8e34fe4b627bb18d39ae29cd7e05a9e191d11c34897055ce4ec0a8e43a34fc721f5b9f003b11f0d5defeff1ccaee3848fd38",
-          "sha256": "004276be4cd6312ab5eb94247a06b6436e650237967d6c691e5afee047faa0a4",
-          "sha1": "f0679a834e7acf35eee54350570616c6af175ee7",
-          "md5": "e22046c1b828b33a1b9e52d7f6a4e5fc"
+          "size": 262450,
+          "sha512": "c1e517287cfba36692ae5f42e3a54dc07f6f02cd675996651243848a44cc588f789b16141bb7416fcc49bc6871e462c75c31ab875d913cc2ae29cf3001ff5d37",
+          "sha256": "c164f39cc5ad7dac9717576631507dde39eb305f907fb5d65e5f07062aef8f1f",
+          "sha1": "cac8f14b138b02eab535eb48721e5592470a5bc6",
+          "md5": "80de5d758a5d227c8e83b0293c41c222"
         }
       ]
     }

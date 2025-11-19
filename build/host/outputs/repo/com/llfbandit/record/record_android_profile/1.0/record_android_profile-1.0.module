@@ -118,11 +118,11 @@
         {
           "name": "record_android_profile-1.0-javadoc.jar",
           "url": "record_android_profile-1.0-javadoc.jar",
-          "size": 470568,
-          "sha512": "a3d581ea67a99ff4eb33d5500220ad9144f93296c35e461fd40484d155c81f9937ccf8e04ef0cd8879598fc8accabc0ef0388c1b61db62804dfbd1505983a890",
-          "sha256": "69a1a423995b18f477ed1793a0981c54d1c1d37cf74b8a6c24546ec509972577",
-          "sha1": "b57a56f374199bce44751ec6fe743516f6f2ba02",
-          "md5": "6afdda02511e39b73169cd96ac3c4319"
+          "size": 475504,
+          "sha512": "0d694da1ec06572c18bf8453e5020e4a21ae01e8f5064b292547bd4bb2ffa8d66026337f224cf42589d074883f8481fe7a8e90b6de0664a8011268486d40d3fa",
+          "sha256": "4202a68f3f9bd395ba57ad3e31dbd5842043d12889852035883645601beb132a",
+          "sha1": "cb433131d505d2653125315350b8ea7a8cc88ac5",
+          "md5": "e63984a9da22d6b8a002deb636ac96d7"
         }
       ]
     }

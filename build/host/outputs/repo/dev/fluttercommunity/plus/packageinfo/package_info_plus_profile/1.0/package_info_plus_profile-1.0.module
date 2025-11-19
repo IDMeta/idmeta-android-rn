@@ -111,11 +111,11 @@
         {
           "name": "package_info_plus_profile-1.0-javadoc.jar",
           "url": "package_info_plus_profile-1.0-javadoc.jar",
-          "size": 265052,
-          "sha512": "d5b1cb147e83d65d3099de911d9da834a37276d714c7591a696cf94224255aa4080b31aceae5fcda52d9660766c8b921d5abf62d85bd2a76297ff63a81bb0c68",
-          "sha256": "be42b4017261c3fd77efccd715f9ed1dff750a279f48935d7cc535cc4e6171bc",
-          "sha1": "fd6d8f680fcfdf89f9bc42ff159bf44f6741c4c3",
-          "md5": "5331491e8dd9e777b54dcd67419e6cbb"
+          "size": 265105,
+          "sha512": "f157c9065368495e1b2e23cbc976479d7b15067ddce6d37a01cfc8a2473d88bc33aa86282d8364a68c31936f450eb75ba92ad22ff887de1b4e4328a89355fcfd",
+          "sha256": "aebb90a6cf605bf1341960bbef9f3e383d5d21789391c76b2c87f3aa59df4480",
+          "sha1": "3f0e1a2a669fbea23c945dd211b9040d97f1121b",
+          "md5": "5834a8ae9c9f36b45ae1189ba964a847"
         }
       ]
     }

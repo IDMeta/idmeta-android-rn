@@ -111,11 +111,11 @@
         {
           "name": "google_mlkit_commons_profile-1.0-javadoc.jar",
           "url": "google_mlkit_commons_profile-1.0-javadoc.jar",
-          "size": 273045,
-          "sha512": "f897da46e5cf63793069642b9de8469785a970d08107915d31865be4807b5f9b109c31cfe99c4915ea15f424f9cc402d9ba3132387821d7a14d82517400fcd5b",
-          "sha256": "6183f57c8f84792ff025f3316f9c8b9c63da922742464bfc52d65bf7760ee6b3",
-          "sha1": "ff4b4b392d57999bd4c1d2bcad16bf4ac0b5af33",
-          "md5": "9df3f4bf31fa48e1cefc6ce2ce172411"
+          "size": 273239,
+          "sha512": "274bb7f3acbe18cf6232d2b4876080f4b1f4bd18dfc2c931ed8cb6b3bb930fec2a3d4fc7bfe0ef8f6c56aafcb84dd2cc5369c99548186bafd0f578eba0104572",
+          "sha256": "06936ad42917eb24504821740910f8854178871b4792a9fd56f7552849a83a2b",
+          "sha1": "01a66fa2bbadceda382f2a36dfd5a0d6bc3ba536",
+          "md5": "28a98590db0ca0cbe94d73a2011e37f0"
         }
       ]
     }
