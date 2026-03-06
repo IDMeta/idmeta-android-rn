@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.0"
+      "version": "8.12"
     }
   },
   "variants": [
@@ -27,28 +27,28 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         },
         {
           "group": "io.flutter",
           "module": "armeabi_v7a_release",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         },
         {
           "group": "io.flutter",
           "module": "arm64_v8a_release",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         },
         {
           "group": "io.flutter",
           "module": "x86_64_release",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         },
         {
@@ -59,7 +59,7 @@
           }
         },
         {
-          "group": "com.microblink.blinkid.flutter",
+          "group": "com.microblink.blinkid_flutter",
           "module": "blinkid_flutter_release",
           "version": {
             "requires": "1.0"
@@ -68,6 +68,13 @@
         {
           "group": "io.flutter.plugins.camera",
           "module": "camera_android_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.device_info",
+          "module": "device_info_plus_release",
           "version": {
             "requires": "1.0"
           }
@@ -103,6 +110,13 @@
         {
           "group": "com.google_mlkit_face_detection",
           "module": "google_mlkit_face_detection_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.idmeta_sdk_flutter",
+          "module": "idmeta_sdk_flutter_release",
           "version": {
             "requires": "1.0"
           }
@@ -168,11 +182,11 @@
         {
           "name": "flutter_release-1.0.aar",
           "url": "flutter_release-1.0.aar",
-          "size": 10175208,
-          "sha512": "4b2670a25da3304ad9f3749e3863bdfec4ff232036e519af148197dcb1b784310a8eaae8f18bbc832281c429944f82cc154ea11e00d7be6ebbdccb153d187837",
-          "sha256": "f538161faf3cb8c0e31629a63594bb263061ac74d00074239b74a5094248cd6c",
-          "sha1": "9854fc946fd7a7c941d4b35dc905880b664fe1dc",
-          "md5": "4d87824ea7743cde5b1d13df85eb5e64"
+          "size": 9202617,
+          "sha512": "782e633695ddea25d4193a6de2988e51b72253a0139f18689fbf8786f74c42218f19f6d42fba9a7a6d97e05cf16c70205a23d3da534a1bed022bf1ad07e68946",
+          "sha256": "17f11b35b8da76eeae7a8b31545ffea02ada0d719e80281836c50ff707da65f8",
+          "sha1": "b3c9be1b45cec39c87205394565bb312e670dfa0",
+          "md5": "ae82156ce3b5360409b1dbd710f6b29c"
         }
       ]
     },
@@ -189,28 +203,28 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         },
         {
           "group": "io.flutter",
           "module": "armeabi_v7a_release",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         },
         {
           "group": "io.flutter",
           "module": "arm64_v8a_release",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         },
         {
           "group": "io.flutter",
           "module": "x86_64_release",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         },
         {
@@ -221,7 +235,7 @@
           }
         },
         {
-          "group": "com.microblink.blinkid.flutter",
+          "group": "com.microblink.blinkid_flutter",
           "module": "blinkid_flutter_release",
           "version": {
             "requires": "1.0"
@@ -230,6 +244,13 @@
         {
           "group": "io.flutter.plugins.camera",
           "module": "camera_android_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.device_info",
+          "module": "device_info_plus_release",
           "version": {
             "requires": "1.0"
           }
@@ -265,6 +286,13 @@
         {
           "group": "com.google_mlkit_face_detection",
           "module": "google_mlkit_face_detection_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.idmeta_sdk_flutter",
+          "module": "idmeta_sdk_flutter_release",
           "version": {
             "requires": "1.0"
           }
@@ -330,11 +358,11 @@
         {
           "name": "flutter_release-1.0.aar",
           "url": "flutter_release-1.0.aar",
-          "size": 10175208,
-          "sha512": "4b2670a25da3304ad9f3749e3863bdfec4ff232036e519af148197dcb1b784310a8eaae8f18bbc832281c429944f82cc154ea11e00d7be6ebbdccb153d187837",
-          "sha256": "f538161faf3cb8c0e31629a63594bb263061ac74d00074239b74a5094248cd6c",
-          "sha1": "9854fc946fd7a7c941d4b35dc905880b664fe1dc",
-          "md5": "4d87824ea7743cde5b1d13df85eb5e64"
+          "size": 9202617,
+          "sha512": "782e633695ddea25d4193a6de2988e51b72253a0139f18689fbf8786f74c42218f19f6d42fba9a7a6d97e05cf16c70205a23d3da534a1bed022bf1ad07e68946",
+          "sha256": "17f11b35b8da76eeae7a8b31545ffea02ada0d719e80281836c50ff707da65f8",
+          "sha1": "b3c9be1b45cec39c87205394565bb312e670dfa0",
+          "md5": "ae82156ce3b5360409b1dbd710f6b29c"
         }
       ]
     },
@@ -350,11 +378,11 @@
         {
           "name": "flutter_release-1.0-sources.jar",
           "url": "flutter_release-1.0-sources.jar",
-          "size": 3009,
-          "sha512": "7cc2fa96e98571c2edfb36af51005d85f66dda3c5e2c224dc9116b57d6fd25d241e80e2bffb0371ed5068e71174962d8393ea34e923daee5f3fefbbf9fbe1030",
-          "sha256": "dcc40c5639c38abc27e215ec892459aba0f52d2c3154c830ff7e380cd71cc89f",
-          "sha1": "02c04a7d5eae40a44c07b10d68927439840a7221",
-          "md5": "d19cbe8d11865608d3797ddb903caf61"
+          "size": 1652,
+          "sha512": "5d9c2f008d1063764edbb1368e8106e4ad30090cf41d165506bb1774885d02a2d7c289e895f28dbf3d713f04303fcfe9dbd8da74b8500880f974ee57b7c85abb",
+          "sha256": "03b172c21293c2146f537f8982d2a18a03cc0c3bdda9a074a09a571c189ef0ba",
+          "sha1": "599ad5ac5cffe4fcb2163549d71ebff1ca3be08b",
+          "md5": "2118f238fff820743d91ea4a92c2c57f"
         }
       ]
     },

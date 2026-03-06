@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.0"
+      "version": "8.12"
     }
   },
   "variants": [
@@ -27,14 +27,14 @@
           "group": "io.flutter",
           "module": "flutter_embedding_profile",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
+          "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.8.22"
+            "requires": "2.1.0"
           }
         }
       ],
@@ -42,11 +42,11 @@
         {
           "name": "mobile_scanner_profile-1.0.aar",
           "url": "mobile_scanner_profile-1.0.aar",
-          "size": 82938,
-          "sha512": "e4277964caa62417be85bbbe57728bad22fd391ddb37ce4ff076e470e8da44555f5971a838a5c3d1eb2b3a8eec739e61846c1042f78aa5e0f444fb8b83f570cb",
-          "sha256": "ff529348f4b6954e9da2d41f762eb4fa5a1986d8457723651b999a2f73f42ef6",
-          "sha1": "d1fdd9df7063ba79c918266170bc9c923ec16775",
-          "md5": "db8c0b8d542421267bea1a46f456e328"
+          "size": 71745,
+          "sha512": "5d95d67c167854a455e81f1245eebdad646cf1d37e5a9ea44b71793d7a76c02aa2bff4bc8c0d5e770980d8de4af1b17c6910c887a88d10e4049259c43231273d",
+          "sha256": "e1f8b68145a89adbecb822eb055a43fcc5e62868802b15b302f3d01820f25550",
+          "sha1": "2b2f35ae7bfcadf373c2fd365e14d116612691ee",
+          "md5": "f09d4a391385238e5c179181de3bc4f6"
         }
       ]
     },
@@ -63,7 +63,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_profile",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         },
         {
@@ -77,28 +77,28 @@
           "group": "androidx.camera",
           "module": "camera-lifecycle",
           "version": {
-            "requires": "1.3.4"
+            "requires": "1.5.0"
           }
         },
         {
           "group": "androidx.camera",
           "module": "camera-camera2",
           "version": {
-            "requires": "1.3.4"
+            "requires": "1.5.0"
           }
         },
         {
           "group": "org.jetbrains.kotlinx",
           "module": "kotlinx-coroutines-android",
           "version": {
-            "requires": "1.7.3"
+            "requires": "1.10.2"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
+          "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.8.22"
+            "requires": "2.1.0"
           }
         }
       ],
@@ -106,11 +106,11 @@
         {
           "name": "mobile_scanner_profile-1.0.aar",
           "url": "mobile_scanner_profile-1.0.aar",
-          "size": 82938,
-          "sha512": "e4277964caa62417be85bbbe57728bad22fd391ddb37ce4ff076e470e8da44555f5971a838a5c3d1eb2b3a8eec739e61846c1042f78aa5e0f444fb8b83f570cb",
-          "sha256": "ff529348f4b6954e9da2d41f762eb4fa5a1986d8457723651b999a2f73f42ef6",
-          "sha1": "d1fdd9df7063ba79c918266170bc9c923ec16775",
-          "md5": "db8c0b8d542421267bea1a46f456e328"
+          "size": 71745,
+          "sha512": "5d95d67c167854a455e81f1245eebdad646cf1d37e5a9ea44b71793d7a76c02aa2bff4bc8c0d5e770980d8de4af1b17c6910c887a88d10e4049259c43231273d",
+          "sha256": "e1f8b68145a89adbecb822eb055a43fcc5e62868802b15b302f3d01820f25550",
+          "sha1": "2b2f35ae7bfcadf373c2fd365e14d116612691ee",
+          "md5": "f09d4a391385238e5c179181de3bc4f6"
         }
       ]
     },

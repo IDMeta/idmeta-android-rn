@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.0"
+      "version": "8.12"
     }
   },
   "variants": [
@@ -27,14 +27,14 @@
           "group": "io.flutter",
           "module": "flutter_embedding_debug",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
+          "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.8.22"
+            "requires": "2.1.0"
           }
         }
       ],
@@ -42,11 +42,11 @@
         {
           "name": "record_android_debug-1.0.aar",
           "url": "record_android_debug-1.0.aar",
-          "size": 110273,
-          "sha512": "f417c6cec16c1a7cce70dadb821547805fcaca4e1be26b18be946ef2e9bbd630179b6b032fb4d0dae7818e79efd6b63a72e0d39afff277cee77bbf836a7407fb",
-          "sha256": "3a26e6aa377ab005b3ad441b2ef95af3146b44ccd95c12d21be96afc8cd0f37a",
-          "sha1": "d2fb550b1bb5eeb6db3c01b2e814885cd51cec9a",
-          "md5": "06bc2950db8ba5a13133f1839b29a44f"
+          "size": 122332,
+          "sha512": "003ca281de99052e5a40162bffd010cc42018759d13776074fa020dd631f23621e22233b147de7048d8da8176e9bee1b36a47b2503b29138c8455e25e1287679",
+          "sha256": "681d6d5ea903286d4ff42e89dd20670679ebf608ed0a648842ce97e09ed18116",
+          "sha1": "e1d5663afa70474a3450af4c0defb7979e6b7d34",
+          "md5": "8ef309276eefd93d089946c70ce00520"
         }
       ]
     },
@@ -63,14 +63,14 @@
           "group": "io.flutter",
           "module": "flutter_embedding_debug",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
+          "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.8.22"
+            "requires": "2.1.0"
           }
         }
       ],
@@ -78,11 +78,11 @@
         {
           "name": "record_android_debug-1.0.aar",
           "url": "record_android_debug-1.0.aar",
-          "size": 110273,
-          "sha512": "f417c6cec16c1a7cce70dadb821547805fcaca4e1be26b18be946ef2e9bbd630179b6b032fb4d0dae7818e79efd6b63a72e0d39afff277cee77bbf836a7407fb",
-          "sha256": "3a26e6aa377ab005b3ad441b2ef95af3146b44ccd95c12d21be96afc8cd0f37a",
-          "sha1": "d2fb550b1bb5eeb6db3c01b2e814885cd51cec9a",
-          "md5": "06bc2950db8ba5a13133f1839b29a44f"
+          "size": 122332,
+          "sha512": "003ca281de99052e5a40162bffd010cc42018759d13776074fa020dd631f23621e22233b147de7048d8da8176e9bee1b36a47b2503b29138c8455e25e1287679",
+          "sha256": "681d6d5ea903286d4ff42e89dd20670679ebf608ed0a648842ce97e09ed18116",
+          "sha1": "e1d5663afa70474a3450af4c0defb7979e6b7d34",
+          "md5": "8ef309276eefd93d089946c70ce00520"
         }
       ]
     },
@@ -98,11 +98,11 @@
         {
           "name": "record_android_debug-1.0-sources.jar",
           "url": "record_android_debug-1.0-sources.jar",
-          "size": 38440,
-          "sha512": "d26b7cc3d86dac3f4bd65226d7ecd6de898e0447ba5a05fdcf73f174daa69ee51c39bf38b1bf27ac658024e87071d2d95ba9d86b6bf9098504a764c1197a563a",
-          "sha256": "c759d7c1791b1ddea01bcba44d72cf365c5764b33bc3b8e421b5d10f80eea031",
-          "sha1": "b34aad83075823082718fbf94903a3431a44e306",
-          "md5": "c1f5a89040d4b5a24e65982749735fe5"
+          "size": 40707,
+          "sha512": "0558c0790669769685860dcd41121f294d7baf3984ea6100feb128386daece4276749b1fb8a480f237e1e8884260288837f7a392e301aadfc1426b9e94d5c8c3",
+          "sha256": "513ffd6763499b73d514578b452d5f42ebcc3f0a4c2ccdbce2cda43433a6b0af",
+          "sha1": "50de9f74627253e6a341f2f345484e3628ffe656",
+          "md5": "229fc62ad1454a59b5d01cf36bbe8acd"
         }
       ]
     },
@@ -118,11 +118,11 @@
         {
           "name": "record_android_debug-1.0-javadoc.jar",
           "url": "record_android_debug-1.0-javadoc.jar",
-          "size": 475504,
-          "sha512": "0d694da1ec06572c18bf8453e5020e4a21ae01e8f5064b292547bd4bb2ffa8d66026337f224cf42589d074883f8481fe7a8e90b6de0664a8011268486d40d3fa",
-          "sha256": "4202a68f3f9bd395ba57ad3e31dbd5842043d12889852035883645601beb132a",
-          "sha1": "cb433131d505d2653125315350b8ea7a8cc88ac5",
-          "md5": "e63984a9da22d6b8a002deb636ac96d7"
+          "size": 513022,
+          "sha512": "e87a93235970bb34af7c24110aca2849e2714e8544cabed1d7be18cb098f7bbf5915cd277f7d6f24cde535dab7d3a47250b4e37ee9a417f27ce4a4cd61d5ff89",
+          "sha256": "26f0a96aa5c000e9822aa06f19e312a6f081b966e4f7494ab384e82233811f3c",
+          "sha1": "0e6a1a0a47594c17f49d9ebace58696c3c571b71",
+          "md5": "457a742093535d49cf4eeb18015d32c2"
         }
       ]
     }

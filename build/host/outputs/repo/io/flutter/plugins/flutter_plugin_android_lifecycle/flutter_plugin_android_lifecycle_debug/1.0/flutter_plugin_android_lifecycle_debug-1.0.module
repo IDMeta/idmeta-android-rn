@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.0"
+      "version": "8.12"
     }
   },
   "variants": [
@@ -27,7 +27,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_debug",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         }
       ],
@@ -35,11 +35,11 @@
         {
           "name": "flutter_plugin_android_lifecycle_debug-1.0.aar",
           "url": "flutter_plugin_android_lifecycle_debug-1.0.aar",
-          "size": 2500,
-          "sha512": "ecaa71eaa63857452d57c93d8da9b6748252c73085e5759ec589d0085fa009b83f6af14f53d9c31e224fba1ed58972e91601c0aa6e56f6165ed232f1a28deb73",
-          "sha256": "df4b20d644ca75fa0c0ba92c560570985e79283f91328981264e2472dd63239a",
-          "sha1": "4dc78bc26e9a35c865766ef2429784549e26c99c",
-          "md5": "cb20381e0aea05825fec1bec4e209248"
+          "size": 2526,
+          "sha512": "56675cbdd6b48dc0aa313e77c25386e81821c54981bb6e5661523adfff6bf791e22fa93193a35b48dc1dd720a400b1ec99bef26efec028cc7fc380c1ec9f4aaa",
+          "sha256": "4b5d28407767e457f9d9812a2678eb2d88337eeb8e84ffe92938bafdc3ab9ee7",
+          "sha1": "57da3b0edb0e6d94a40150484d369747e16223a3",
+          "md5": "9d1a7169e4ff890edac2408ba9969ee6"
         }
       ]
     },
@@ -56,7 +56,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_debug",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         },
         {
@@ -71,11 +71,11 @@
         {
           "name": "flutter_plugin_android_lifecycle_debug-1.0.aar",
           "url": "flutter_plugin_android_lifecycle_debug-1.0.aar",
-          "size": 2500,
-          "sha512": "ecaa71eaa63857452d57c93d8da9b6748252c73085e5759ec589d0085fa009b83f6af14f53d9c31e224fba1ed58972e91601c0aa6e56f6165ed232f1a28deb73",
-          "sha256": "df4b20d644ca75fa0c0ba92c560570985e79283f91328981264e2472dd63239a",
-          "sha1": "4dc78bc26e9a35c865766ef2429784549e26c99c",
-          "md5": "cb20381e0aea05825fec1bec4e209248"
+          "size": 2526,
+          "sha512": "56675cbdd6b48dc0aa313e77c25386e81821c54981bb6e5661523adfff6bf791e22fa93193a35b48dc1dd720a400b1ec99bef26efec028cc7fc380c1ec9f4aaa",
+          "sha256": "4b5d28407767e457f9d9812a2678eb2d88337eeb8e84ffe92938bafdc3ab9ee7",
+          "sha1": "57da3b0edb0e6d94a40150484d369747e16223a3",
+          "md5": "9d1a7169e4ff890edac2408ba9969ee6"
         }
       ]
     },

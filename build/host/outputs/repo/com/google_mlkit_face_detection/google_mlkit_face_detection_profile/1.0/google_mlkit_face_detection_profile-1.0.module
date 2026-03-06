@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.0"
+      "version": "8.12"
     }
   },
   "variants": [
@@ -27,7 +27,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_profile",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         }
       ],
@@ -35,11 +35,11 @@
         {
           "name": "google_mlkit_face_detection_profile-1.0.aar",
           "url": "google_mlkit_face_detection_profile-1.0.aar",
-          "size": 6847,
-          "sha512": "e0eb9a6e725723e84ed9f0ce8b3f6ab45ec39714c06e85f880ae182878378997208fc0dc846ed03cb44fe615720615e742a083804f7dd5451b65866ddd991e5e",
-          "sha256": "f5f7bbee0cae7b9630b820cb6c6218ba71e47b3ba88736faecb81fac270a506e",
-          "sha1": "d0b8e6f90dee5b5ec5d456b64728abd5e3b19689",
-          "md5": "0ff8747e79fa5a9dc560883f171404b4"
+          "size": 7239,
+          "sha512": "dd20b140a5430159a103f5e05e986be5b7af810a90a01fec3231e4f15ae121221d945f59f9c449561a44974e339e82fdee68957bfe391512b8ff4fa9e5780988",
+          "sha256": "8f2ae19d189b6338c70467fa32388dc79193a05c45a06c9d8897f92449d73ee2",
+          "sha1": "26bb205d713e0366c1d8a77acadcb80fc34a93ef",
+          "md5": "bf4225c65e0ee12ed51a8032169414d9"
         }
       ]
     },
@@ -56,14 +56,14 @@
           "group": "io.flutter",
           "module": "flutter_embedding_profile",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         },
         {
           "group": "com.google.mlkit",
           "module": "face-detection",
           "version": {
-            "requires": "16.1.6"
+            "requires": "16.1.7"
           }
         },
         {
@@ -78,11 +78,11 @@
         {
           "name": "google_mlkit_face_detection_profile-1.0.aar",
           "url": "google_mlkit_face_detection_profile-1.0.aar",
-          "size": 6847,
-          "sha512": "e0eb9a6e725723e84ed9f0ce8b3f6ab45ec39714c06e85f880ae182878378997208fc0dc846ed03cb44fe615720615e742a083804f7dd5451b65866ddd991e5e",
-          "sha256": "f5f7bbee0cae7b9630b820cb6c6218ba71e47b3ba88736faecb81fac270a506e",
-          "sha1": "d0b8e6f90dee5b5ec5d456b64728abd5e3b19689",
-          "md5": "0ff8747e79fa5a9dc560883f171404b4"
+          "size": 7239,
+          "sha512": "dd20b140a5430159a103f5e05e986be5b7af810a90a01fec3231e4f15ae121221d945f59f9c449561a44974e339e82fdee68957bfe391512b8ff4fa9e5780988",
+          "sha256": "8f2ae19d189b6338c70467fa32388dc79193a05c45a06c9d8897f92449d73ee2",
+          "sha1": "26bb205d713e0366c1d8a77acadcb80fc34a93ef",
+          "md5": "bf4225c65e0ee12ed51a8032169414d9"
         }
       ]
     },

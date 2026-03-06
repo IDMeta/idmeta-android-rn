@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.0"
+      "version": "8.12"
     }
   },
   "variants": [
@@ -27,7 +27,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_debug",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         }
       ],
@@ -35,11 +35,11 @@
         {
           "name": "google_mlkit_face_detection_debug-1.0.aar",
           "url": "google_mlkit_face_detection_debug-1.0.aar",
-          "size": 7213,
-          "sha512": "2d5a7022620819f9b4d0a1f41c3a7cc1a1c7c6c9618c455b7613c1c7dc4040a02c4295f9c5198b2cd2d0b6375785a13394f4c82017fe4e7a286ab65d73283ac4",
-          "sha256": "38f489389153939c645427dd5f3d8acdbe31454df812d3097a3cd891e11ccd9b",
-          "sha1": "fdfa783d6adb0e9e4a1119b15c671893c513dccb",
-          "md5": "ee558bf56c69fa457aba1b3b51045988"
+          "size": 7239,
+          "sha512": "dd20b140a5430159a103f5e05e986be5b7af810a90a01fec3231e4f15ae121221d945f59f9c449561a44974e339e82fdee68957bfe391512b8ff4fa9e5780988",
+          "sha256": "8f2ae19d189b6338c70467fa32388dc79193a05c45a06c9d8897f92449d73ee2",
+          "sha1": "26bb205d713e0366c1d8a77acadcb80fc34a93ef",
+          "md5": "bf4225c65e0ee12ed51a8032169414d9"
         }
       ]
     },
@@ -56,14 +56,14 @@
           "group": "io.flutter",
           "module": "flutter_embedding_debug",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         },
         {
           "group": "com.google.mlkit",
           "module": "face-detection",
           "version": {
-            "requires": "16.1.6"
+            "requires": "16.1.7"
           }
         },
         {
@@ -78,11 +78,11 @@
         {
           "name": "google_mlkit_face_detection_debug-1.0.aar",
           "url": "google_mlkit_face_detection_debug-1.0.aar",
-          "size": 7213,
-          "sha512": "2d5a7022620819f9b4d0a1f41c3a7cc1a1c7c6c9618c455b7613c1c7dc4040a02c4295f9c5198b2cd2d0b6375785a13394f4c82017fe4e7a286ab65d73283ac4",
-          "sha256": "38f489389153939c645427dd5f3d8acdbe31454df812d3097a3cd891e11ccd9b",
-          "sha1": "fdfa783d6adb0e9e4a1119b15c671893c513dccb",
-          "md5": "ee558bf56c69fa457aba1b3b51045988"
+          "size": 7239,
+          "sha512": "dd20b140a5430159a103f5e05e986be5b7af810a90a01fec3231e4f15ae121221d945f59f9c449561a44974e339e82fdee68957bfe391512b8ff4fa9e5780988",
+          "sha256": "8f2ae19d189b6338c70467fa32388dc79193a05c45a06c9d8897f92449d73ee2",
+          "sha1": "26bb205d713e0366c1d8a77acadcb80fc34a93ef",
+          "md5": "bf4225c65e0ee12ed51a8032169414d9"
         }
       ]
     },

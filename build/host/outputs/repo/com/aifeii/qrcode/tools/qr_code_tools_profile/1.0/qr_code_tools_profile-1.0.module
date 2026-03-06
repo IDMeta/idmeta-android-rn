@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.0"
+      "version": "8.12"
     }
   },
   "variants": [
@@ -27,14 +27,14 @@
           "group": "io.flutter",
           "module": "flutter_embedding_profile",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
+          "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.8.22"
+            "requires": "2.1.0"
           }
         }
       ],
@@ -42,11 +42,11 @@
         {
           "name": "qr_code_tools_profile-1.0.aar",
           "url": "qr_code_tools_profile-1.0.aar",
-          "size": 3935,
-          "sha512": "bff392820c0ca1878fd5b3f94b5573c425cb83efe515bbf5d5a165a7880e65576d8ad8e0d6cb78f8b73f1104b20616144f47d14b45d2fac2e216c4849a8085ad",
-          "sha256": "3b8fbb9a2e089720262ff15fb89a46c731a185e3298818042d7583b92621232d",
-          "sha1": "e997835fb06faf08ff77ccd0e633e0ae84b3e027",
-          "md5": "94382b685d5eed982bd7fdbcb55dc150"
+          "size": 4109,
+          "sha512": "a1653aee9fe236013712b0fb0548ebcea9b61624f2ccc11beb51272e043365a3dabef00adedbb9d6905935ddaa2afc146b269f0bb14fba5ab8212bc0c994294f",
+          "sha256": "f484d78e4ea6d9e0188565bed97f3bebe0613e9d7d35f4ce2ef38e1bc3326c3e",
+          "sha1": "95af85a8b91d6eb182885874c39cbc08e1051235",
+          "md5": "e8518b2b89a3881a13d10ee97eb18f41"
         }
       ]
     },
@@ -63,7 +63,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_profile",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         },
         {
@@ -82,9 +82,9 @@
         },
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
+          "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.8.22"
+            "requires": "2.1.0"
           }
         }
       ],
@@ -92,11 +92,11 @@
         {
           "name": "qr_code_tools_profile-1.0.aar",
           "url": "qr_code_tools_profile-1.0.aar",
-          "size": 3935,
-          "sha512": "bff392820c0ca1878fd5b3f94b5573c425cb83efe515bbf5d5a165a7880e65576d8ad8e0d6cb78f8b73f1104b20616144f47d14b45d2fac2e216c4849a8085ad",
-          "sha256": "3b8fbb9a2e089720262ff15fb89a46c731a185e3298818042d7583b92621232d",
-          "sha1": "e997835fb06faf08ff77ccd0e633e0ae84b3e027",
-          "md5": "94382b685d5eed982bd7fdbcb55dc150"
+          "size": 4109,
+          "sha512": "a1653aee9fe236013712b0fb0548ebcea9b61624f2ccc11beb51272e043365a3dabef00adedbb9d6905935ddaa2afc146b269f0bb14fba5ab8212bc0c994294f",
+          "sha256": "f484d78e4ea6d9e0188565bed97f3bebe0613e9d7d35f4ce2ef38e1bc3326c3e",
+          "sha1": "95af85a8b91d6eb182885874c39cbc08e1051235",
+          "md5": "e8518b2b89a3881a13d10ee97eb18f41"
         }
       ]
     },

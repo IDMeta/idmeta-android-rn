@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.0"
+      "version": "8.12"
     }
   },
   "variants": [
@@ -27,7 +27,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         }
       ],
@@ -35,11 +35,11 @@
         {
           "name": "camera_android_release-1.0.aar",
           "url": "camera_android_release-1.0.aar",
-          "size": 159411,
-          "sha512": "39988ce7fc8c244241cd00aa99e0a1266093b6b91df22a5849e6b555cb01115f849da4d19b1084ec535b664b3ece777245823464f59678096240e3ede1cc02ea",
-          "sha256": "154abbd64bda9f999ef2aa241d684516c71de9d1b09ea76814f24626886b66ec",
-          "sha1": "2954fb23c54e5fd4c5c72c87f8518cc4f16818da",
-          "md5": "0fd23d195b9ca7922b76d61cfb5060e3"
+          "size": 160855,
+          "sha512": "06798cc7c9b1e65caa0be5a0cf196feb5b0b7ec5c06e9ed917a921adb7a6d9bf67a284593e78a947280ca5beb4e81e5c7c6525a7be14aa16693f90be5fd7729e",
+          "sha256": "3b5a909f96a3d48f4d30e52a4d097ec4c3e66d1bc2660247db37161dc5aa6117",
+          "sha1": "23b2da27a571640af5600c54202479797bdbef85",
+          "md5": "be6000683e9cf8879ad728b27e34a474"
         }
       ]
     },
@@ -56,7 +56,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         },
         {
@@ -78,11 +78,11 @@
         {
           "name": "camera_android_release-1.0.aar",
           "url": "camera_android_release-1.0.aar",
-          "size": 159411,
-          "sha512": "39988ce7fc8c244241cd00aa99e0a1266093b6b91df22a5849e6b555cb01115f849da4d19b1084ec535b664b3ece777245823464f59678096240e3ede1cc02ea",
-          "sha256": "154abbd64bda9f999ef2aa241d684516c71de9d1b09ea76814f24626886b66ec",
-          "sha1": "2954fb23c54e5fd4c5c72c87f8518cc4f16818da",
-          "md5": "0fd23d195b9ca7922b76d61cfb5060e3"
+          "size": 160855,
+          "sha512": "06798cc7c9b1e65caa0be5a0cf196feb5b0b7ec5c06e9ed917a921adb7a6d9bf67a284593e78a947280ca5beb4e81e5c7c6525a7be14aa16693f90be5fd7729e",
+          "sha256": "3b5a909f96a3d48f4d30e52a4d097ec4c3e66d1bc2660247db37161dc5aa6117",
+          "sha1": "23b2da27a571640af5600c54202479797bdbef85",
+          "md5": "be6000683e9cf8879ad728b27e34a474"
         }
       ]
     },
@@ -98,11 +98,11 @@
         {
           "name": "camera_android_release-1.0-sources.jar",
           "url": "camera_android_release-1.0-sources.jar",
-          "size": 87755,
-          "sha512": "2e6ac83c8357fa3961fab042f47f266532e38b3aa698d807d12d0790f12c14cb632229809133eaa28c91f385956e3fde7e99bdb3f1e5242f2d6d3168209980d0",
-          "sha256": "94b20e75d159e1cf5e1d972a325b98288ee6b3501823d7285cde1314e84998c0",
-          "sha1": "93bed498b42cbdbdf3f59c18dcf143498c128d41",
-          "md5": "f37151e8bfe86055b82c31397797b397"
+          "size": 88327,
+          "sha512": "4495e9efa9193aa2dc723beb5a09cdd6ce754fbc890cee9aa2c170644d99d5c7e2d15e8678e1dbff69b040ed068d931605812dca76ca2a6cb847a1b485f3f43b",
+          "sha256": "fe50a797bb52ef81ce67840287ec2d60ba851288ce3713b923ba6a2427fb54f0",
+          "sha1": "200754a2e631ba8f6d4cc3a4325ca97205b96422",
+          "md5": "27092203793db372f3df052b4d900525"
         }
       ]
     },
@@ -118,11 +118,11 @@
         {
           "name": "camera_android_release-1.0-javadoc.jar",
           "url": "camera_android_release-1.0-javadoc.jar",
-          "size": 605556,
-          "sha512": "58ef0c845a8952a07c3bb0427ac2b6a4250847a22d63c75b7ce9816de78ed4c5657e3bffe6a0c689cbe057ef468acae67dbcd585fcda3adf1bf719c98af7cbbb",
-          "sha256": "c9ffa6984be22f283cce123134c5df7d1b9f6dfac9c460c57d7fbb84c8399961",
-          "sha1": "b318100186236fb60d4a8b1623cef738ea6721a2",
-          "md5": "dfa2a7804ebbe24c3a82d86283b32f4e"
+          "size": 605631,
+          "sha512": "7a0066a24a7a6101e890429ba5f841fd37a5632b56b455cf96e21f957ea318265aa448359490ecefce6c46769c916b9741debccdb6fe16705e1a5839761f70d2",
+          "sha256": "80e64e663f9f6c9781333e2a22d0421b95fc6a6b114b6f320c0d4672b878c222",
+          "sha1": "2065423daab7f8f1254d395ca3d6e7d49edd1940",
+          "md5": "ed4992ae2d42a93053efc0efe0d5580e"
         }
       ]
     }

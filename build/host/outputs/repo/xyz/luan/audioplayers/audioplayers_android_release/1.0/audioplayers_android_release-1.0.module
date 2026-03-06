@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.0"
+      "version": "8.12"
     }
   },
   "variants": [
@@ -27,7 +27,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         }
       ],
@@ -35,11 +35,11 @@
         {
           "name": "audioplayers_android_release-1.0.aar",
           "url": "audioplayers_android_release-1.0.aar",
-          "size": 57746,
-          "sha512": "b2a70b18a9eccdf7b200524dba835fe9531e022e2f6d7399264218ae3cbebce3fba506de85ecea9c723d617c98a2a1a24a9eaed9e6b17f1e44d1659dcbb47940",
-          "sha256": "10a501a6b655eeaa280050b449583f9416f2ce39fe0e94e4f27a36eff03ee841",
-          "sha1": "3de29cdbde4af0cc464f1667b12e7d06ca9fce7c",
-          "md5": "757f9b4bd00df3c14ce2b584c7cfcaf7"
+          "size": 60519,
+          "sha512": "3b19f7544870e0508a8df3a5776cc3b37e84abc2b75fd8b99e39ea2ba1f3fe71eb71a9b92d88a5c857a52f1024838444f26955fa551d63bdf9fd690199d205d8",
+          "sha256": "6757104675d51a5070523e5d5451317e9b088a68008b431954377575cce01a59",
+          "sha1": "0bbb64d6b7cefd44da5fb32ead24516939d3430a",
+          "md5": "94ef8fbdb4c514694b26a3919718b787"
         }
       ]
     },
@@ -56,7 +56,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         },
         {
@@ -92,11 +92,11 @@
         {
           "name": "audioplayers_android_release-1.0.aar",
           "url": "audioplayers_android_release-1.0.aar",
-          "size": 57746,
-          "sha512": "b2a70b18a9eccdf7b200524dba835fe9531e022e2f6d7399264218ae3cbebce3fba506de85ecea9c723d617c98a2a1a24a9eaed9e6b17f1e44d1659dcbb47940",
-          "sha256": "10a501a6b655eeaa280050b449583f9416f2ce39fe0e94e4f27a36eff03ee841",
-          "sha1": "3de29cdbde4af0cc464f1667b12e7d06ca9fce7c",
-          "md5": "757f9b4bd00df3c14ce2b584c7cfcaf7"
+          "size": 60519,
+          "sha512": "3b19f7544870e0508a8df3a5776cc3b37e84abc2b75fd8b99e39ea2ba1f3fe71eb71a9b92d88a5c857a52f1024838444f26955fa551d63bdf9fd690199d205d8",
+          "sha256": "6757104675d51a5070523e5d5451317e9b088a68008b431954377575cce01a59",
+          "sha1": "0bbb64d6b7cefd44da5fb32ead24516939d3430a",
+          "md5": "94ef8fbdb4c514694b26a3919718b787"
         }
       ]
     },
@@ -112,11 +112,11 @@
         {
           "name": "audioplayers_android_release-1.0-sources.jar",
           "url": "audioplayers_android_release-1.0-sources.jar",
-          "size": 16019,
-          "sha512": "3fbfcd4a434baa963448672d96bf1926fa2dc06a191065de973fe9af16a02700daf2f3fc06be803327de7320d7e2b5965f50b4a65e51a3179ad869b9bba536a4",
-          "sha256": "bfd406851860d307af826201505d8267426b40b2de926619a030f433b86ba68e",
-          "sha1": "b62623ad9e794eddda069f4d357cc3cdb8043a6d",
-          "md5": "1fa177525a817abaaaa69b1d4b66d275"
+          "size": 16164,
+          "sha512": "52141dae6c90a3eda971829b1b6d23a0f8b29f4b9091efc02ab2246c36f7cfe268deb277f84369c622a14b67efdb65121a7761be2ecc2186d4b7f4538b019d59",
+          "sha256": "768a8f7541b89146b087c12c4b4c5eb2ffafb4ad1bc893c982bd0e832947fc74",
+          "sha1": "935cb2521cc783ab7ab1a0dc093678103921a7c6",
+          "md5": "f2a34eaca0c2c54e3c622bdec51cc822"
         }
       ]
     },
@@ -132,11 +132,11 @@
         {
           "name": "audioplayers_android_release-1.0-javadoc.jar",
           "url": "audioplayers_android_release-1.0-javadoc.jar",
-          "size": 358897,
-          "sha512": "17d3c91ec7040a7418487848e11e7243261edf8f94c6a1ef6330bffd811481d92ff186c0bcb35870ee1ee1ecccfd0ff6ee4b26b92da7ddb0cc7d0c72159464a4",
-          "sha256": "0a24ebf8f37dc2ed6723c109ca4f34f3cc025a91aea767ff9b113a0c5c80414e",
-          "sha1": "2362a29004e696be5afc680f84f835b2083acd7c",
-          "md5": "529c696f117118169037d29ab92e26ba"
+          "size": 361717,
+          "sha512": "c7c700828ab99179cfd9de0414c850aeef959ef372c0e061a8aafe651ad73add7ca5b218df8b15d888fb4d4b90c80605ffb877f1b724457a7f52a9fe6f6bb8da",
+          "sha256": "bcff7c1baa205c61a5df9e1a0f39a7f4b101a48ae1a6f3a2888bc5873b04a464",
+          "sha1": "a484656a2586e68540687ebf727a5891b3e58d5a",
+          "md5": "05482360885111b46a416d00918f6405"
         }
       ]
     }

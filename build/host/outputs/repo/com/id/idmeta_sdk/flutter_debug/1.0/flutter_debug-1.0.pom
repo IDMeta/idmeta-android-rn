@@ -15,25 +15,25 @@
     <dependency>
       <groupId>io.flutter</groupId>
       <artifactId>flutter_embedding_debug</artifactId>
-      <version>1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a</version>
+      <version>1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.flutter</groupId>
       <artifactId>armeabi_v7a_debug</artifactId>
-      <version>1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a</version>
+      <version>1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.flutter</groupId>
       <artifactId>arm64_v8a_debug</artifactId>
-      <version>1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a</version>
+      <version>1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.flutter</groupId>
       <artifactId>x86_64_debug</artifactId>
-      <version>1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a</version>
+      <version>1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -43,7 +43,7 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.microblink.blinkid.flutter</groupId>
+      <groupId>com.microblink.blinkid_flutter</groupId>
       <artifactId>blinkid_flutter_debug</artifactId>
       <version>1.0</version>
       <scope>compile</scope>
@@ -51,6 +51,12 @@
     <dependency>
       <groupId>io.flutter.plugins.camera</groupId>
       <artifactId>camera_android_debug</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>dev.fluttercommunity.plus.device_info</groupId>
+      <artifactId>device_info_plus_debug</artifactId>
       <version>1.0</version>
       <scope>compile</scope>
     </dependency>
@@ -81,6 +87,12 @@
     <dependency>
       <groupId>com.google_mlkit_face_detection</groupId>
       <artifactId>google_mlkit_face_detection_debug</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.idmeta_sdk_flutter</groupId>
+      <artifactId>idmeta_sdk_flutter_debug</artifactId>
       <version>1.0</version>
       <scope>compile</scope>
     </dependency>

@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.0"
+      "version": "8.12"
     }
   },
   "variants": [
@@ -27,7 +27,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_debug",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         }
       ],
@@ -35,11 +35,11 @@
         {
           "name": "google_mlkit_commons_debug-1.0.aar",
           "url": "google_mlkit_commons_debug-1.0.aar",
-          "size": 6459,
-          "sha512": "7a80bade0fff5cafb6369db378009121c54cf031d4bcdb07b4336f1683480c5d0b1224f2880d2720177204dc352924c9b2558cafaa075e54822be571472e631c",
-          "sha256": "cb97d8d1e76d3a59026f1a81136902c276ae91b4f9e740d4f4aff05cc81ff9bc",
-          "sha1": "2a68cdeed904309500e70fdb24a00e064b948c21",
-          "md5": "5c86b3df143a31a656fd89b0263c4fac"
+          "size": 6781,
+          "sha512": "7947876904ddfbc9883d42e68f071e61607b0271e4dfa1628092e5b33a71bd4a43d75f515646199bd75a76ffb6728aee61df0eaafa1c98051e1a59e74811ef07",
+          "sha256": "49d9fcefc172f8ab130a7ef3101e3478a7a4c849d02d73304df58ee6934863e3",
+          "sha1": "58e332e0eec6ed0098ae7abee73aca7c937b2fb0",
+          "md5": "6740c07e154d2051ba2698e59b514bca"
         }
       ]
     },
@@ -56,7 +56,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_debug",
           "version": {
-            "requires": "1.0.0-83bacfc52569459a4a654727cad2546820cb0d6a"
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
           }
         },
         {
@@ -71,11 +71,11 @@
         {
           "name": "google_mlkit_commons_debug-1.0.aar",
           "url": "google_mlkit_commons_debug-1.0.aar",
-          "size": 6459,
-          "sha512": "7a80bade0fff5cafb6369db378009121c54cf031d4bcdb07b4336f1683480c5d0b1224f2880d2720177204dc352924c9b2558cafaa075e54822be571472e631c",
-          "sha256": "cb97d8d1e76d3a59026f1a81136902c276ae91b4f9e740d4f4aff05cc81ff9bc",
-          "sha1": "2a68cdeed904309500e70fdb24a00e064b948c21",
-          "md5": "5c86b3df143a31a656fd89b0263c4fac"
+          "size": 6781,
+          "sha512": "7947876904ddfbc9883d42e68f071e61607b0271e4dfa1628092e5b33a71bd4a43d75f515646199bd75a76ffb6728aee61df0eaafa1c98051e1a59e74811ef07",
+          "sha256": "49d9fcefc172f8ab130a7ef3101e3478a7a4c849d02d73304df58ee6934863e3",
+          "sha1": "58e332e0eec6ed0098ae7abee73aca7c937b2fb0",
+          "md5": "6740c07e154d2051ba2698e59b514bca"
         }
       ]
     },
@@ -91,11 +91,11 @@
         {
           "name": "google_mlkit_commons_debug-1.0-sources.jar",
           "url": "google_mlkit_commons_debug-1.0-sources.jar",
-          "size": 3064,
-          "sha512": "0b345ff8bb21ead2ff72171aa926376cc843e5d3be61287acd82ba555527a748608165e7fbe10d9387e4b4e9d6aef05e28e8208697959ad8dd4e2719e580f5fd",
-          "sha256": "f57e87855dd76a14a5ad4b573c570c65c48d51af3a1472b7af289518fe73dbef",
-          "sha1": "516ebab6acd1557e30fb11f2f609ec78a73af8c6",
-          "md5": "287c9bc440a24cecf40a7fc4987a54fe"
+          "size": 3161,
+          "sha512": "c3482f873b41c01680dda46f780f157f3e306b65e8996a3ce3a839523add8d3682a591baa1ccc0c29d243e1f68c99bc481b759da21c691f5ee47fc4bd06facc2",
+          "sha256": "8dc184f7ab29e88d1f80ef14f675650f62d92e3eb1b3b71c3755151bb6b7dd36",
+          "sha1": "857842e871494ad5412c86b1243a18e24a461ad7",
+          "md5": "05c5d57c78b50eac64010a5e61f7fc80"
         }
       ]
     },
